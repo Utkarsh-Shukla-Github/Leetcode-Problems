@@ -2,6 +2,4 @@
 
 
 
-
-
-![leetcode](https://user-images.githubusercontent.com/61664827/134495982-458ba12c-1159-4ee8-a1be-dc8a719bb0c6.png)
+![leetcode_logo](https://user-images.githubusercontent.com/61664827/134496239-104a590d-03a0-453e-8ada-f5bf3bcb41a4.png)
