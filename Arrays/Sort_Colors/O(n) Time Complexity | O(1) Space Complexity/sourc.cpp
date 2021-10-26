@@ -11,7 +11,7 @@ public:
             if(value == 2) twos++;
         }
         
-        nums.clear
+        nums.clear();
             
         while(zeros--){
             nums.push_back(0);
