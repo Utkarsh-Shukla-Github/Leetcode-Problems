@@ -1,3 +1,5 @@
+// O(n) Time Complexity | O(n) Space Complexity
+
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {

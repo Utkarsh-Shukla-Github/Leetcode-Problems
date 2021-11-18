@@ -1,3 +1,5 @@
+// O(n*n!) Time Complexity | O(n) Space Complexity
+
 class Solution {
 private:
     void generatePermutations(unordered_map<int, int>& counter, vector<int>& curr, vector<vector<int>>& output, int n) {

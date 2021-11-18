@@ -1,3 +1,5 @@
+// O(n*m*4^s) Time Complexity | O(n) Space Complexity
+
 class Solution {
 public:
     bool dfs(vector<vector<char>>& board, int i, int j, int count, string word){
